@@ -1,17 +1,27 @@
 # flask_platform
 
-flask_platform description
+Shining new flask_platform, can check platform and print on a webpage.
+
+install
+	
+	pip install git+https://github.com/xinyuewang1/crispy-doodle
 
 ## Quick Start
 
 Run the application:
 
-    make run
+    python path/to/flask_platform/run.py
 
-And open it in the browser at [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+or type in terminal
+
+	flask_platform
 
 
 ## Prerequisites
+
+It's using sysinfo, make sure install systeminfo_cookiecutter first.
+
+	pip install git+https://github.com/xinyuewang1/super-duper-potato
 
 This is built to be used with Python 3. Update `Makefile` to switch to Python 2 if needed.
 
